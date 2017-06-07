@@ -1,2 +1,2 @@
 # intel_serve
-## ES6 server Code starter Kit
+## ES6 intel Code starter Kit
