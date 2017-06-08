@@ -1,5 +1,5 @@
 {
-  "name": "intel_test",
+  "name": "intel_serve",
   "version": "1.0.0",
   "description": "Intel Test Code",
   "main": "index.js",
@@ -26,7 +26,8 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "synaptic": "^1.0.11"
   },
   "nyc": {
     "check-coverage": true,
